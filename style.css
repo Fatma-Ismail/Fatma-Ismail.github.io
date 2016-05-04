@@ -6,3 +6,35 @@ body {
 #nav-links{
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 640px) {
+    /*  Centers navbar logo/brand when screen size less than 420px (on mobile)  */
+    #logo{ }
+}
+
+nav{
+    padding-bottom: 50px;
+}
+
+.project-thumb{
+    overflow: hidden;
+    padding-bottom: 10px;
+    
+}
+
+.project-thumb img{
+    width: 120%;
+    padding-bottom: 5px;
+    
+}    
+
+
+.subhead{
+text-align: center;
+    text-decoration-color: dimgray;
+    text-transform: capitalize;
+    font-family:"open sans";
+    font-size: 13pt;
+    
+    
+}
