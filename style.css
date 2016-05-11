@@ -1,10 +1,11 @@
 body {
     font-family: "museo-slab";
-    padding: 75px;
+    padding: 8%;
 }
 
 #nav-links{
     text-transform: uppercase;
+    
 }
 
 @media screen and (max-width: 640px) {
@@ -25,16 +26,36 @@ nav{
 .project-thumb img{
     width: 120%;
     padding-bottom: 5px;
-    
+    right: 10%;
+    position: relative;
 }    
 
 
 .subhead{
 text-align: center;
     text-decoration-color: dimgray;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-family:"open sans";
-    font-size: 13pt;
+    font-size: 14px;
+    color:grey;
+     font-family: "open sans";
     
-    
+}
+
+footer{
+    overflow: auto;
+}
+
+#footer-social{
+    display: inline-block;
+    float: right;
+    padding-top: 5%;
+}
+
+#footer-social a{
+    padding-left: 3vw;
+}
+
+ #nav-links a, #footer-social a, #footer-social a:active, #footer-social a:visited{
+    color:#c39d4d;
 }
