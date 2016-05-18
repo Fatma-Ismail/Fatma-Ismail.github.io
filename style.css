@@ -49,20 +49,23 @@ nav a{
     align-items: center;
 }
 
-.thumb-container img:after {
-    content: '\A';
-    position: absolute;
-    width: 100%; height:100%;
-    top:0; left:0;
-    background:rgba(0,0,0,0.6);
-    opacity: 0;
-    transition: all 1s;
-    -webkit-transition: all 1s;
-}
 
-.thumb-container img:hover:after {
-    opacity: 1;
-}
+/*This adds a dark image overlay on hover*/
+    .thumb-container:after {
+        content: '\A';
+        position: absolute;
+        width: 100%; height: 50vmin;
+        top:0; left:0;
+        background:rgba(0,0,0,0.6);
+        opacity: 0;
+        transition: all 1s;
+        -webkit-transition: all 1s;
+    }
+
+    .thumb-container:hover:after {
+        opacity: 1;
+    }
+/*end of image overlay on-hover styling*/
 
 
 .subhead{
