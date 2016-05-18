@@ -17,6 +17,10 @@ nav{
     padding-bottom: 50px;
 }
 
+nav a{
+    cursor: pointer;
+}
+
 .project-thumb{
     overflow: hidden;
     padding-bottom: 10px;
