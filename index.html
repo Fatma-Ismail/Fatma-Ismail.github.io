@@ -19,8 +19,8 @@
     <title>Fatma Ismail</title>
     
     <script> 
-        function showPage(){
-            $('#current-page').load("./testing.html")
+        function showPage(page){
+            $('#current-page').load(page)
         }
     </script>
 
@@ -38,7 +38,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right" id="nav-links">
             <ul class="nav navbar-nav">
-                <li><a href="#" onclick="showPage();">Portfolio</a></li>
+                <li><a href="#" onclick="showPage('./testing.html');">Portfolio</a></li>
                 <li><a href="#">About Me</a></li>
                 <li><a href="#">blog</a></li>
                 <li><a href="#">Resume</a></li>
