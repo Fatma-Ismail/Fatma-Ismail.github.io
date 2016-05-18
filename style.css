@@ -13,6 +13,10 @@ body {
     #logo{ }
 }
 
+#logo{
+    font-size: 45px;
+}
+
 nav{
     padding-bottom: 50px;
 }
