@@ -30,8 +30,15 @@ nav a{
 
 .project-thumb img{
     position: relative;
-    max-height: 120%;
-}    
+}
+
+.project-thumb .landscape-img{
+    max-height: 100%;
+}
+
+.project-thumb .portrait-img{
+    max-width: 100%;
+}
 
 .thumb-container{
     display: flex;
