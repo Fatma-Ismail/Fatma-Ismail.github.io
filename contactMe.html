@@ -1,15 +1,43 @@
-<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
-	<div class="row">
-		<label for="name">Your name:</label><br />
-		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="email">Your email:</label><br />
-		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="message">Your message:</label><br />
-		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
-	</div>
-	<input id="submit_button" type="submit" value="Send email" />
-</form>						
+ <div class="top-content">
+        	
+            <div class="inner-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2 text">
+            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 col-sm-offset-3 form-box">
+                        	<div class="form-top">
+                        		<div class="form-top-left">
+                        			<h3>Let's work together</h3>
+                            		<p>Fill in the form below to send me a message:</p>
+                        		</div>
+                        		<div class="form-top-right">
+                        			<i class="fa fa-envelope"></i>
+                        		</div>
+                            </div>
+                            <div class="form-bottom contact-form">
+			                    <form role="form" action="assets/contact.php" method="post">
+			                    	<div class="form-group">
+			                    		<label class="sr-only" for="contact-email">Email</label>
+			                        	<input type="text" name="email" placeholder="Email..." class="contact-email form-control" id="contact-email">
+			                        </div>
+			                        <div class="form-group">
+			                        	<label class="sr-only" for="contact-subject">Subject</label>
+			                        	<input type="text" name="subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject">
+			                        </div>
+			                        <div class="form-group">
+			                        	<label class="sr-only" for="contact-message">Message</label>
+			                        	<textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message"></textarea>
+			                        </div>
+			                        <button type="submit" class="btn">Send message</button>
+			                    </form>
+		                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
