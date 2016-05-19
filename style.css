@@ -120,7 +120,7 @@ article {
   padding: 90px;
 }
 article header {
-  text-align: center;
+  text-align: left;
 }
 article header h1 {
   border-top: 2px solid #c2081c;
@@ -156,7 +156,7 @@ p b i {
   text-transform: none;
 }
 article blockquote {
-  text-align: center;
+  text-align: left;
   font-size: 22px;
   max-width: 80%;
   margin: auto auto 30px;
