@@ -213,6 +213,11 @@ article blockquote {
 
 
 /* CONTACT FORM */
+.contact-page{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .form-box {
 	padding-top: 40px;
 }
