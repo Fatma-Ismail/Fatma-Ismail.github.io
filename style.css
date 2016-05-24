@@ -1,6 +1,10 @@
 body {
     font-family: "museo-slab";
-    padding: 8%;
+    background-color: #fcfcfc;
+    padding-right: 14%;
+    padding-left: 14%;
+    padding-top: 4%;
+    padding-bottom: 4%;
 }
 
 #nav-links{
@@ -21,7 +25,7 @@ nav{
     padding-bottom: 50px;
 }
 
-nav a{
+nav a, #projects a{
     cursor: pointer;
 }
 
@@ -222,7 +226,14 @@ article blockquote {
 	border-color: #19b9e7;
 }
 
+.project-title{
+  font-size: 1.9em;
+  text-transform: uppercase;
+}
 
+.project-img{
+  margin-bottom: 20px;
+}
 
 /* animation */
 
