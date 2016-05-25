@@ -20,7 +20,7 @@ body {
 
     .navbar-toggle{
       width: 100%;
-      color: #c39d4d;
+      color: #cea052;
       margin-right: 0px;
     }
 
@@ -37,7 +37,7 @@ body {
 }
 
 #logo{
-    font-size: 2em;
+    font-size: 1em;
 }
 
 nav{
@@ -279,4 +279,8 @@ article blockquote {
 color: #cea052;
 }
 
+
+.navbar-brand{
+color: #cea052;
+}
 
