@@ -1,22 +1,24 @@
-Frozen Sambosa online store
-The file should contain the name of your business, 
-Sambosa Gal
-some location and contact information, 
-999 Mel Street, San Frantokyo. CA. 94103
-(417)655-5222
-some information about your business to pique customers’ interest,
-Handmade fast delivery vegan Sambosa.
-Locally sourced. 
- a brief history, 
+                                                  Sambosa Gal
+                                    Handmade fast delivery vegan Sambosa.
+ 
+Company's Story:
 In 2013 a young couple migrated from Egypt to San Frantokyo. Soon after they arrived they started a pursuit trying to find food that carried the flavor of their home country, but they never really found what they were looking for. Instead, they started thinking of ways to reproduce these flavors with the best locally sourced ingredients offered by their new community. Their pursuit finally led them to creating a dish that is served mainly during Ramadan called “Sambosa”, mainly consisting of spring rolls wrapped with middle eastern spices and filled with delicious melted cheese and olives. The Sambosa dish was so delicious that friends in the community started asking the couple to offer these Sambosa online in frozen form, and hence Sambosa Gal came to life.
-a list of your products and services, 
-Frozen Sambosa.
-Arabian spices.
-Arabian olives.
-your mission statement, 
+
+A list of your products and services: 
+- Frozen Sambosa
+- Arabian spices
+- Arabian olives
+
+your mission statement: 
 Our mission is to allow people everywhere to experience the delicious food Egypt has to offer. We believe that food is a universal language that can bridge cultures through the delight of delicious food.
-a description of some unique aspect of your business, 
-Frozen food delivery
-Vegan menu
-Fast to prepare
-and copyright information. Now is your chance to revisit this first pass, add or subtract material if required, reformat if necessary, correct any spelling and grammar mistakes, and (finally) “put it up on the web”
+
+Unique aspect of your business:
+- Frozen food delivery
+- Vegan menu
+- Fast to prepare
+
+location: 999 Mel Street, San Frantokyo. CA. 94103
+Telephone Number: (417)655-5222
+
+© 2019 SambosaGal
+
